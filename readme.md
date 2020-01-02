@@ -23,6 +23,15 @@ Keywords tool
 - [KeywordTool](https://keywordtool.io/)
 - [Trends - Google](https://trends.google.com/trends/?geo=US)
 
+Social sites
+------
+
+- [Hacker News](https://news.ycombinator.com/newest)
+- [Voat](https://voat.co)
+- [Enlyte](https://www.enlyte.com/)
+- [Programming - Reddit](https://www.reddit.com/r/programming/)
+- [Skimfeed](https://skimfeed.com/)
+
 Study
 ----
 
@@ -36,3 +45,8 @@ Other
 - [Zoho mail Login](https://www.zoho.com/mail/login.html)
 - [Zoho mailAdmin](https://mailadmin.zoho.com/cpanel/index.do)
 - [EasiestSoft.com](https://easiestsoft.com/)
+
+Article links
+-------
+
+- [Cleaning up git github repository without deleting .git directory](https://medium.com/@panjeh/cleaning-up-git-github-repository-without-deleting-git-directory-c86b7415b51b)
