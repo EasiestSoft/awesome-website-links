@@ -15,13 +15,14 @@ Website Optimization
 - [VirusTotal - Analyze suspicious files and URLs](https://www.virustotal.com/gui/home/upload)
 - [MetaDefender](https://metadefender.opswat.com/)
 
-Keywords tool
+SEO / Keywords tool
 -----
 
 - [WordTracker - Find new keywords for your market](https://www.wordtracker.com)
 - [AnswerThePublic - free visual keyword research](https://answerthepublic.com/)
 - [KeywordTool](https://keywordtool.io/)
 - [Trends - Google](https://trends.google.com/trends/?geo=US)
+- [Backlink Checker - seoreviewtools](https://www.seoreviewtools.com/valuable-backlinks-checker/)
 
 Social sites
 ------
